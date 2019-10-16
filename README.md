@@ -1,4 +1,5 @@
-
+Django-React Framework Template
+===
 * Install dependencies
 ```bash
 npm install
